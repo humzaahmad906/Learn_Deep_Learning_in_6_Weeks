@@ -43,7 +43,11 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - [ ] Build a GAN using tensorflow
 - [ ] Read this to understand the math of GANs, but don't worry if you dont understand it all. This is the bleeding edge [here](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
-## Week 6 - Deep Reinforcement Learning
+## Week 6 - Deep learning Serving using Tensorflow Extended (tfx)
+- [ ] Watch tfx playlist [here](https://www.youtube.com/watch?v=Mxk4qmO_1B4&list=PLQY2H8rRoyvxR15n04JiW0ezF5HQRs_8F) 
+- [ ] Deploy a Machine Learning model using tfx and flask
+
+## Week 7 - Deep Reinforcement Learning
 - [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/) 
 - [ ] Build a Deep Q Network using Tensorflow
 
