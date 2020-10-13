@@ -7,7 +7,7 @@
 ## Week 2 - NLP Project
  
 - [ ] Learn tensorflow from [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
-- [ ] Dockerize the project using aws specialization to learn docker
+- [ ] Dockerize the chatbot project using aws specialization to learn docker
 
 
 ## Week 3 - Convolutional Networks
